@@ -1,3 +1,3 @@
 # hello-world
 Just start
-Wow its so coooooool!!!
+Wow it's so coooooool!!!
